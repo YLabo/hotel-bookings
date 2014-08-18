@@ -47,7 +47,7 @@ class Hotel
 	   char e = r.charAt(2);
 	
 	//↑他のクラスライブラリでいいやり方がないか質問する。
-	//◆String Substringのクラスライブラリを使う。String型のままで使える（P.304）◆
+	//◆String Substringのクラスライブラリを使う。String型のままで使える ※例外処理入れてない状態◆
 	
 	//多次元配列番号（確認用：）あとで消す！
 	//System.out.println(f+e+"←多次元配列番号（確認用：）あとで消す！");
